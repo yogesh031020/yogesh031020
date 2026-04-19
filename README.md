@@ -1,14 +1,19 @@
-# ?? Yogesh E S | UAV Autonomy & GNC Engineer
+# ?? Yogesh E S | Aeronautical Engineer & UAV Autonomy specialist
 
-Building the intelligence behind autonomous aerial systems. Specializing in **ROS 2**, **SITL Simulations**, and **GPS-Denied Navigation**.
+I bridge the gap between **Flight Physics** and **Autonomous Intelligence**. My work focuses on building high-fidelity GNC (Guidance, Navigation, and Control) systems for the next generation of aerial vehicles.
 
 ---
+
+### ?? Engineering Synergy
+*   **Aerodynamics:** Deep understanding of flight mechanics and stability.
+*   **Autonomy:** Implementing ROS 2, SLAM, and Path Planning in SITL environments.
+*   **The Goal:** Developing resilient, GPS-denied navigation for defense and commercial UAVs.
 
 ### ??? Core Expertise
 *   **Autonomy:** SLAM (Lidar/Visual), Path Planning (A*, Dijkstra), Obstacle Avoidance.
 *   **Robotics Stack:** ROS 2 Humble, MAVLink, MAVROS, ArduPilot/PX4.
 *   **Simulation:** Gazebo Garden, AirSim, Isaac Sim.
-*   **AI/ML:** YOLOv8, OpenCV, Deep Reinforcement Learning.
+*   **Aeronautics:** Aircraft Design, CFD basics, Flight Stability & Control.
 
 ### ?? Featured Projects
 #### [3D A* Path Planning for UAVs](https://github.com/yogesh031020/drone-path-planning-astar)
