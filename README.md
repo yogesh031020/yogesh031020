@@ -7,7 +7,7 @@
 # 🛸 Senior Autonomous Systems & UAV Engineer
 **2 Years Industry Experience | Specializing in Failure-Resilient Autonomy & Swarm Intelligence**
 
-Experienced Robotics Engineer with a deep background in **Aeronautical Engineering**. Expert in building production-grade autonomous systems using **ROS 2**, **PX4/ArduPilot**, and **Edge AI**. Formerly at **Novatech Robo Pvt Ltd**, where I managed 2+ years of real-world flight operations and telemetry analysis.
+Experienced Robotics Engineer with a deep background in **Aeronautical Engineering**. Expert in building production-grade autonomous systems using **ROS 2**, **PX4/ArduPilot**, and **Edge AI**. Formerly at **Novatech Robo Pvt Ltd**, where I managed 2 years of real-world flight operations and telemetry analysis.
 
 ---
 
