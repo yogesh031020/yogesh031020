@@ -39,7 +39,7 @@ Experienced Robotics Engineer with a deep background in **Aeronautical Engineeri
 ---
 
 ## 📊 Industrial Experience Highlights
-*   **Novatech Robo Pvt Ltd:** 2+ years of high-frequency UAV flight operations.
+*   **Novatech Robo Pvt Ltd:** 2 years of high-frequency UAV flight operations.
 *   **Telemetry Mastery:** Expert in analyzing quadrotor/hexacopter flight logs for safety optimization.
 *   **Mission Design:** Architected autonomous survey and agricultural payload delivery systems.
 
