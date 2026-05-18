@@ -1,11 +1,13 @@
-# 👋 Hi, I'm Yogesh | Autonomous UAV Systems Engineer
+# 👋 Hi, I'm Yogesh | Aeronautical Engineer
+
+👉 **Explore my Aerospace & UAV Autonomy Portfolio live at: [yogesh031020.github.io](https://yogesh031020.github.io/)**
 
 ![Drone Autonomy](https://img.shields.io/badge/Focus-Drone%20Autonomy%20%26%20AI-blue?style=for-the-badge)
 ![ROS2](https://img.shields.io/badge/ROS2-Jazzy%20%7C%20Humble-green?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experience-2%20Years-orange?style=for-the-badge)
 
-# 🛸 Senior Autonomous Systems & UAV Engineer
-**2 Years Industry Experience | Specializing in Failure-Resilient Autonomy & Swarm Intelligence**
+# 🛸 Aeronautical Engineer
+**2 Years Industry Experience | Specializing in UAV Autonomy, Flight Control, and Failsafe Avionics**
 
 Experienced Robotics Engineer with a deep background in **Aeronautical Engineering**. Expert in building production-grade autonomous systems using **ROS 2**, **PX4/ArduPilot**, and **Edge AI**. Formerly at **Novatech Robo Pvt Ltd**, where I managed 2 years of real-world flight operations and telemetry analysis.
 
@@ -45,4 +47,4 @@ Experienced Robotics Engineer with a deep background in **Aeronautical Engineeri
 
 ---
 
-📫 **Connect with me:** [Email](yogeshes376@gmail.com) | **Legal:** All projects licensed under **MIT**.
+📫 **Connect with me:** [Email](mailto:yogeshes376@gmail.com) | **Portfolio:** [yogesh031020.github.io](https://yogesh031020.github.io/) | **Legal:** All projects licensed under **MIT**.
