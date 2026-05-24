@@ -59,13 +59,13 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yogesh-e-s" target="_blank">
+  <a href="https://https://www.linkedin.com/in/yogesh-e-s-9380b540b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://yogesh031020.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:yogesh031020@gmail.com">
+  <a href="mailto:yogeshes376@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
