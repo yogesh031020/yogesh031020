@@ -59,7 +59,7 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/yogesh-e-s-9380b540b/" target="_blank">
+  <a href="https://www.linkedin.com/in/yogesh-e-s-9380b540b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://yogesh031020.github.io" target="_blank">
