@@ -1,50 +1,71 @@
-# 👋 Hi, I'm Yogesh | Aeronautical Engineer
+<h1 align="center">Hey, I'm Yogesh E S 👋</h1>
+<h3 align="center">Drone Systems Engineer · UAV Developer · Bengaluru, India</h3>
 
-👉 **Explore my Aerospace & UAV Autonomy Portfolio live at: [yogesh031020.github.io](https://yogesh031020.github.io/)**
-
-![Drone Autonomy](https://img.shields.io/badge/Focus-Drone%20Autonomy%20%26%20AI-blue?style=for-the-badge)
-![ROS2](https://img.shields.io/badge/ROS2-Jazzy%20%7C%20Humble-green?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-2%20Years-orange?style=for-the-badge)
-
-# 🛸 Aeronautical Engineer
-**2 Years Industry Experience | Specializing in UAV Autonomy, Flight Control, and Failsafe Avionics**
-
-Experienced Robotics Engineer with a deep background in **Aeronautical Engineering**. Expert in building production-grade autonomous systems using **ROS 2**, **PX4/ArduPilot**, and **Edge AI**. Formerly at **Novatech Robo Pvt Ltd**, where I managed 2 years of real-world flight operations and telemetry analysis.
+<p align="center">
+  I build autonomous drone systems — from bare-metal ESP32 firmware to 
+  ROS 2 autonomy stacks and ML-powered aerial perception.
+</p>
 
 ---
 
-## 🚀 Featured Flagship Projects
+## 🛠️ What I Build
 
-### 🌌 [Autonomous-UAV-Trinity-Stack](https://github.com/yogesh031020/Autonomous-UAV-Trinity-Stack)
-**The Unified Autonomy Ecosystem.**
-*   **AEGIS:** Failure-resilient failsafe logic & Black Box logging.
-*   **Swarm:** Decentralized multi-agent coordination & map merging.
-*   **Zenith:** AI Vision-driven obstacle avoidance (YOLOv10).
-
-### 🏗️ [Project CHRONOS](https://github.com/yogesh031020/Project-CHRONOS-Infrastructure-Inspection)
-**Standalone Industrial Infrastructure Inspector.**
-*   Autonomous bridge & power-tower inspection in **GPS-denied environments**.
-*   Real-time **SLAM-based fallback** navigation.
-*   Automated AI defect reporting (Rust, Cracks, Structural Decay).
+- 🚁 **Autonomous UAVs** — GPS-denied navigation, obstacle avoidance, indoor flight
+- 🧠 **ML on Drones** — YOLOv8 object detection, deep learning for avoidance
+- 📡 **MAVLink Systems** — Custom flight controller integration, GCS-free mission execution
+- 🔧 **Hardware + Firmware** — ESP32-S3, APM 2.8, custom flight controllers from scratch
+- 🌐 **Simulation** — AirSim, Gazebo, ROS 2 for pre-hardware validation
 
 ---
 
-## 🛠️ Tech Stack & Mastery
+## ⚙️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-Jazzy-blue?style=for-the-badge)
-![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic-orange?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 Industrial Experience Highlights
-*   **Novatech Robo Pvt Ltd:** 2 years of high-frequency UAV flight operations.
-*   **Telemetry Mastery:** Expert in analyzing quadrotor/hexacopter flight logs for safety optimization.
-*   **Mission Design:** Architected autonomous survey and agricultural payload delivery systems.
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MAVLink-0078D7?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArduPilot-FF0000?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat&logo=ultralytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AirSim-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat&logoColor=white"/>
+</p>
 
 ---
 
-📫 **Connect with me:** [Email](mailto:yogeshes376@gmail.com) | **Portfolio:** [yogesh031020.github.io](https://yogesh031020.github.io/) | **Legal:** All projects licensed under **MIT**.
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [WiFi Follow-Me Drone](https://github.com/yogesh031020/wifi-follow-me-drone) | Tracks target via RSSI, MAVLink control + LiDAR avoidance | ESP32, MAVLink, C++ |
+| [Warehouse Drone v2](https://github.com/yogesh031020/warehouse-drone-v2) | GPS-free indoor delivery with ML inference on-board | ESP32, APM 2.8, ML, C++ |
+| [Obstacle Avoidance — Deep Learning](https://github.com/yogesh031020/autonomous-obstacle-avoidance-drone) | Neural net-based avoidance in AirSim simulation | Python, AirSim, DL |
+| [YOLOv8 Aerial Detection](https://github.com/yogesh031020/yolov8-drone-detection) | Real-time object detection on drone camera feed | YOLOv8, Python, AirSim |
+| [A* Path Planning](https://github.com/yogesh031020/drone-path-planning-astar) | 3D collision-free waypoint planning for UAVs | Python, A*, AirSim |
+| [SkyLink Commander](https://github.com/yogesh031020/SkyLink-Commander) | Raspberry Pi MAVLink mission commander + web HUD | Python, MAVLink, RPi |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogesh031020&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh031020&layout=compact&theme=dark&hide_border=true" width="40%"/>
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yogesh-e-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://yogesh031020.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:yogesh031020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
