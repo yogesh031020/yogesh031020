@@ -1,112 +1,107 @@
-# 🛸 YOGESH E S | UAV AUTONOMY & AVIONICS SYSTEMS ENGINEER
+<!-- ANIMATED CYBERPUNK TYPING HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9B%B8+YOGESH+E+S+%7C+AERONAUTICAL+ENGINEER;%F0%9F%9A%80+UAV+AUTONOMY+%26+EMBEDDED+C%2B%2B+DEVELOPER;%F0%9F%93%9F+CUSTOM+AVIONICS+%26+PCB+DESIGNER;%E2%9A%A1+ALL+SYSTEMS+ACTIVE+%7C+TELEMETRY+LOCK" alt="Typing SVG" />
+</div>
+
+<!-- SLEEK NEON SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6daec595.gif" width="100%" height="4px" />
+
+<br>
 
 <div align="center">
   
-  [![Portfolio Website](https://img.shields.io/badge/PORTFOLIO-yogesh031020.github.io-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yogesh031020.github.io/)
-  [![Email](https://img.shields.io/badge/EMAIL-yogeshes376%40gmail.com-BD00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshes376@gmail.com)
+  `SYSTEM_STATUS: ONLINE 🟢` | `AVIONICS_BUS: OK 📡` | `EKF3_CONFIDENCE: 99.8% 🏆`
   
-  <br>
+  <br><br>
 
-  `SYSTEM_STATUS: ACTIVE 🟢` | `TELEM_LOCK: 100% 📡` | `EKF3_STATE: OPTIMAL 🏆`
-  
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/andryback/andryback/main/av.gif" width="60%" alt="Avionics Telemetry Visualizer" />
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-yogesh031020.github.io-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yogesh031020.github.io/)
+  [![Email](https://img.shields.io/badge/EMAIL-yogeshes376%40gmail.com-BD00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshes376@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Yogesh_E_S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-e-s-53b762222/)
+
+</div>
+
+<br>
+
+<!-- DYNAMIC TELEMETRY TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yogesh031020&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Yogesh's Trophies" />
+</div>
+
+---
+
+### 📟 Core Mission Briefing
+> **Robotics & Aeronautical Systems Engineer** specializing in bare-metal embedded C++ firmware, real-time control loops, and distributed robotic flight stacks (ROS 2). Formerly at **Novatech Robo Pvt Ltd**, managing real-world commercial flight operations, sensor calibrations, and black-box telemetry analysis. I build deterministic hardware-software ecosystems designed to operate under real-world physical constraints.
+
+---
+
+## 🛠️ The Tech Matrix (Avionics Stack)
+
+<div align="center">
+
+| Core Languages | Autonomy & Flight Control | Simulation & Physics | Tools & Infrastructure |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /><br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br><img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" /> | <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" /><br><img src="https://img.shields.io/badge/ArduPilot-000000?style=for-the-badge&logo=drone&logoColor=white" /><br><img src="https://img.shields.io/badge/PX4-22314E?style=for-the-badge&logo=PX4&logoColor=white" /><br><img src="https://img.shields.io/badge/MAVLink-00F2FE?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Gazebo-FF5A00?style=for-the-badge&logo=gazebo&logoColor=white" /><br><img src="https://img.shields.io/badge/OpenVSP-00F2FE?style=for-the-badge" /><br><img src="https://img.shields.io/badge/FEA_PrePoMax-FF007F?style=for-the-badge" /><br><img src="https://img.shields.io/badge/CFD_OpenFOAM-00599C?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br><img src="https://img.shields.io/badge/KiCad-314DA0?style=for-the-badge&logo=kicad&logoColor=white" /><br><img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><br><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
 
 </div>
 
 ---
 
-### 🧠 System Diagnostic & Core Bio
-> **Aeronautical Engineer (B.E.)** specializing in bare-metal embedded C++ firmware, real-time control loops, and distributed robotic flight stacks (ROS 2). Formerly at **Novatech Robo Pvt Ltd**, managing real-world commercial flight operations, sensor calibrations, and black-box telemetry analysis. I build deterministic hardware-software ecosystems designed to operate under real-world physical constraints.
-
----
-
-## ⚡ The Avionics System Stack
+## 🚀 Active Hangar & Projects Showcase
 
 <table width="100%">
+  <!-- PROJECT 1 -->
   <tr>
-    <td width="50%" valign="top">
-      <h4>🔵 Low-Level Firmware & Control</h4>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/AVIONICS--CORE-WAREHOUSE--DRONE--V2-00E5FF?style=for-the-badge" />
+      </div>
+      <br>
       <ul>
-        <li><code>C++ (11/14/17)</code> / Bare-Metal C</li>
-        <li><code>ArduPilot (C++ core)</code> & <code>PX4 Autopilot</code></li>
-        <li><code>FreeRTOS</code> Task Scheduling & Queues</li>
-        <li><code>MAVLink Msg #70</code> Overrides & <code>uORB</code> Pub/Sub</li>
-        <li>I2C, SPI, UART, DShot, PWM Actuators</li>
+        <li><strong>FreeRTOS Task Scheduler:</strong> Developed custom embedded C++ companion core (ESP32) running pre-emptive, deterministic loops over serial MAVLink.</li>
+        <li><strong>Actuator Overrides:</strong> Overrode roll, pitch, yaw, and throttle channels to execute programmatic 3D grid flights.</li>
+        <li><strong>Precision Docking:</strong> Programmed real-time IR beacon interrupt triangulation to handle auto-guided landing.</li>
       </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🟢 High-Level ROS 2 Autonomy</h4>
-      <ul>
-        <li><code>ROS 2 (Jazzy / Humble)</code> Core Nodes</li>
-        <li>Extended Kalman Filter (<code>EKF3</code>) Fusion</li>
-        <li>3D SLAM Toolbox & Distributed Map Merging</li>
-        <li>Dynamic Obstacle Avoidance (YOLOv10 Edge AI)</li>
-        <li>Custom <code>A* Pathfinding</code> Graph Solvers</li>
-      </ul>
+      <div align="center">
+        <a href="https://github.com/yogesh031020/warehouse-drone-v2">📂 <b>Access Code</b></a> | <a href="https://github.com/yogesh031020/warehouse-drone-v2/raw/main/docs/warehouse_v2_simulation.mp4">🎬 <b>Watch SITL Video</b></a>
+      </div>
     </td>
   </tr>
+
+  <!-- PROJECT 2 -->
   <tr>
-    <td width="50%" valign="top">
-      <h4>🟣 Hardware & PCB Design</h4>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/ROBOTICS--AUTONOMY-TRINITY--SWARM--STACK-BD00FF?style=for-the-badge" />
+      </div>
+      <br>
       <ul>
-        <li><code>KiCad</code> Schematic Design & Routing</li>
-        <li>High-Speed Telemetry & EMI Shielding</li>
-        <li>Multi-layer Power Distribution (BEC)</li>
-        <li>Hand-Soldering, Assembly & Stress Testing</li>
+        <li><strong>Failsafe Management (AEGIS):</strong> Implemented EKF variance detection triggers with auto-hover and return-to-home algorithms.</li>
+        <li><strong>Collaborative SLAM (Swarm):</strong> Established decentralized occupancy-grid map merging under multi-agent ROS 2 namespaces.</li>
+        <li><strong>AI Collision Avoidance (Zenith):</strong> Integrated Jetson-level object detection steering reactive potential field vectors.</li>
       </ul>
+      <div align="center">
+        <a href="https://github.com/yogesh031020/Autonomous-UAV-Trinity-Stack">📂 <b>Access Code</b></a>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h4>🟠 Aerospace Physics & Tools</h4>
+  </tr>
+
+  <!-- PROJECT 3 -->
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HARDWARE--DEVELOPMENT-AEROCORE--FC--PCB-FF5E36?style=for-the-badge" />
+      </div>
+      <br>
       <ul>
-        <li><code>OpenVSP</code> High-Fidelity CAD Geometry</li>
-        <li><code>PrePoMax / CalculiX</code> Structural FEA</li>
-        <li><code>OpenFOAM</code> Aerodynamic CFD</li>
-        <li>Docker, Git CI/CD, Ubuntu Linux</li>
+        <li><strong>Avionics Hardware:</strong> Custom schematic design and PCB routing in KiCad featuring dedicated sensors buses.</li>
+        <li><strong>Bare-Metal Drivers:</strong> Authored low-level C++ drivers for IMUs and barometers over SPI.</li>
       </ul>
+      <div align="center">
+        <a href="https://github.com/yogesh031020/AeroCore-S3-Flight-Controller">📂 <b>Access Code</b></a> | <a href="https://github.com/yogesh031020/Drone-PCB-Hardware-Assembly-Media-Showcase">🛠️ <b>View Assembly</b></a>
+      </div>
     </td>
   </tr>
 </table>
-
----
-
-## 🚀 Flagship Project Showrooms
-
-> [!NOTE]
-> ### 📦 01 / Warehouse Drone v2.0 — C++ Firmware & SITL Twin
-> **Bare-Metal C++ Companion Core & Software-in-the-Loop Mission Control.**
-> *   **Companion MCU:** Coded an ESP32-WROOM core running FreeRTOS tasks to inject high-frequency MAVLink RC overrides into Pixhawk.
-> *   **Sensor Suite:** Programmed downward LiDAR altimeters, HC-SR04 sonar filters, and IR beacon interrupt arrays for precision coordinate docking.
-> *   **Digital Twin:** Validated a full autonomous pickup-to-landing sequence inside an ArduPilot SITL environment.
-> 
-> 🔗 **Links:** [Access Repository](https://github.com/yogesh031020/warehouse-drone-v2) | [View SITL Simulation Run](https://github.com/yogesh031020/warehouse-drone-v2/raw/main/docs/warehouse_v2_simulation.mp4)
-
-> [!TIP]
-> ### 🌌 02 / Autonomous UAV Trinity Stack
-> **Failure-Resilient distributed multi-agent swarm architecture in ROS 2.**
-> *   **Project AEGIS:** Fail-safe state machine monitoring battery/EKF variance, writing telemetry data live to a SQLite black box.
-> *   **Project Swarm:** Namespace-isolated decentralized map merging using SLAM Toolbox.
-> *   **Project Zenith:** Jetson-level YOLOv10 object detection steering reactive potential field avoidance.
-> 
-> 🔗 **Links:** [Access Repository](https://github.com/yogesh031020/Autonomous-UAV-Trinity-Stack)
-
-> [!IMPORTANT]
-> ### 🛸 03 / AeroCore-S3 Flight Controller Hardware
-> **Custom ESP32-S3 Autopilot Avionics board from schematic design to flight test.**
-> *   **Hardware Design:** Designed multi-layer PCB in KiCad with isolated telemetry paths, noise-calibrated BEC rails, and low-latency IMU buses.
-> *   **Firmware Board Support:** Authored bare-metal C++ drivers for on-board gyros and barometers over SPI.
-> 
-> 🔗 **Links:** [Access Repository](https://github.com/yogesh031020/AeroCore-S3-Flight-Controller) | [View PCB Showcase](https://github.com/yogesh031020/Drone-PCB-Hardware-Assembly-Media-Showcase)
-
-> [!WARNING]
-> ### 🦅 04 / Project ICARUS: Aerospace Certification
-> **Physics-based design, structural FEA, and fluid aerodynamic analysis of a HALE Wing.**
-> *   **Wing Design:** Evolved wing geometry programmatically inside OpenVSP using a Neural Network Optimizer.
-> *   **Structural FEA:** Certified load limits and shear stress under high aerodynamic loads in PrePoMax.
-> *   **Aerodynamic CFD:** Calculated lift-to-drag polar ratios using OpenFOAM mesh solvers.
-> 
-> 🔗 **Links:** [Access Repository](https://github.com/yogesh031020/Project-ICARUS)
 
 ---
 
