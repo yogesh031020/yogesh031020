@@ -1,91 +1,148 @@
-# 🦅 Yogesh E S | UAV Autonomy & Bare-Metal Avionics Systems Engineer
+# 🛸 YOGESH E S | UAV AUTONOMY & AVIONICS SYSTEMS ENGINEER
 
 <div align="center">
-  <a href="https://yogesh031020.github.io/">🌐 **Deep-Dive Systems Portfolio (yogesh031020.github.io)**</a>
-  <br><br>
+  
+  [![Portfolio Website](https://img.shields.io/badge/PORTFOLIO-yogesh031020.github.io-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yogesh031020.github.io/)
+  [![Email](https://img.shields.io/badge/EMAIL-yogeshes376%40gmail.com-ff007f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshes376@gmail.com)
+  
+  <br>
 
-  ![Avionics & Control](https://img.shields.io/badge/System--Rigor-Embedded%20C%2B%2B%20%7C%20Control%20Theory-blue?style=for-the-badge&logo=c%2B%2B)
-  ![ROS 2 Architecture](https://img.shields.io/badge/Autonomy-ROS%202%20Jazzy%20%7C%20PX4%20%7C%20ArduPilot-green?style=for-the-badge&logo=ros)
-  ![Hardware Engineering](https://img.shields.io/badge/Hardware-PCB%20Design%20%7C%20Aero%20Design%20(CAD%2FFEA)-orange?style=for-the-badge&logo=kicad)
+  `SYSTEM_STATUS: ACTIVE` | `TELEM_LOCK: 100%` | `EKF3_STATE: OPTIMAL`
+  
+  <br>
+  
+  <img src="https://raw.githubusercontent.com/andryback/andryback/main/av.gif" width="60%" alt="Avionics Telemetry Visualizer" />
+
 </div>
 
 ---
 
-### 🛸 Executive Technical Summary
-A systems-focused **Aeronautical & Robotics Engineer** with **2+ years of industrial aerospace experience** at *Novatech Robo Pvt Ltd*. I bridge the gap between high-speed hardware design and low-level control firmware. 
-
-My work focuses on co-designing physical avionics (**custom flight controller PCBs**), writing highly deterministic, multitasking embedded C++ (**FreeRTOS, MAVLink, uORB**), and implementing high-level autonomous navigation stacks (**ROS 2, EKF3 Sensor Fusion, A\* Path Planning**).
+### 🛡️ System Diagnostic & Bio
+> **Aerospace Engineer (B.E.)** specializing in bare-metal embedded C++ firmware, real-time control loops, and distributed robotic flight stacks (ROS 2). Formerly at **Novatech Robo Pvt Ltd**, managing real-world commercial flight operations, sensor calibrations, and black-box telemetry analysis. I build deterministic hardware-software ecosystems designed to operate under real-world physical constraints.
 
 ---
 
-## 🏗️ Flagship Systems Engineering Portfolio
+## ⚡ The Avionics System Stack
 
-### 1. Bare-Metal Embedded Systems & Avionics
-
-#### 🛸 [AeroCore-S3 Flight Controller Hardware & Firmware](https://github.com/yogesh031020/AeroCore-S3-Flight-Controller)
-**Custom ESP32-S3 Flight Controller from schematic design to flight test.**
-*   **Hardware Assembly & PCB Routing:** Designed the schematic, optimized high-speed routing to minimize EMI, managed power distribution regulators (BEC), and hand-soldered the dual-core core board. (Featured in [PCB Hardware Assembly Showcase](https://github.com/yogesh031020/Drone-PCB-Hardware-Assembly-Media-Showcase)).
-*   **Low-Level Firmware:** Developed custom bare-metal C++ drivers for IMUs, gyroscopes, and barometers over SPI/I2C buses, implementing sensor calibration algorithms directly.
-
-#### 📦 [Warehouse Drone v2.0: Companion Core & MAVLink Controller](https://github.com/yogesh031020/warehouse-drone-v2)
-**Multitasking indoor package delivery UAV featuring external MAVLink overrides.**
-*   **Companion Core Architecture:** Developed custom **ESP32 C++ firmware** running FreeRTOS tasks to parse and inject binary **MAVLink (Msg #70 RC Override)** packets into Pixhawk flight controllers via hardware UART.
-*   **Sensor Bring-up:** Programmed downward **LiDAR** altitude locks, forward **ultrasonic** collision arrays, and **IR receiver arrays** using hardware interrupts for grid quadrant precision docking.
-*   **Digital Twin (SITL):** Built a complete Software-in-the-Loop simulation validating takeoff, A* path navigation, package grasp, precision drop, and autonomous land states.
-
----
-
-### 2. Distributed Robotics & ROS 2 Autonomy
-
-#### 🌌 [Autonomous UAV Trinity Stack (Unified Autonomy Ecosystem)](https://github.com/yogesh031020/Autonomous-UAV-Trinity-Stack)
-**Production-grade autonomous drone stack optimized for high-load reliability and failure-resilience.**
-*   **Project AEGIS:** Designed a failure-resilient state machine monitoring battery/EKF variance, implementing automated recovery maneuvers (Emergency Hover/Limp Home) and writing high-frequency flight diagnostics to a local SQLite database.
-*   **Project Swarm:** Established decentralized multi-agent coordination using **ROS 2 namespaces**, performing grid map merging from distributed SLAM Toolbox inputs.
-*   **Project Zenith:** Engineered AI-driven reactive potential fields for dynamic obstacle avoidance utilizing YOLOv10 object detection.
-
-#### 🔍 [Project CHRONOS: Infrastructure Inspection Stack](https://github.com/yogesh031020/Project-CHRONOS-Infrastructure-Inspection)
-**Industrial structural inspector designed to operate safely inside GPS-denied environments.**
-*   Integrated real-time **SLAM-based fallback** navigation loops to handle complete GNSS loss under bridges and towers.
-*   Designed an automated Edge AI reporting engine classifying structural defects (rust, cracks, concrete decay).
-
----
-
-### 3. Aerodynamics & Structural Analysis (Aerospace Physics)
-
-#### 🦅 [Project ICARUS & Aero_VSP (CAD/FEA/CFD Architecture)](https://github.com/yogesh031020/Project-ICARUS)
-**First-principles design and certification of High-Altitude Long-Endurance (HALE) wings.**
-*   **Aerodynamic Optimization:** Modeled high-fidelity geometries in **OpenVSP** and validated Lift/Drag polars using **OpenFOAM (CFD)** simulations.
-*   **Structural Certification:** Executed finite element analysis (**FEA in PrePoMax/CalculiX**) to verify structural integrity and wing shear stress limits under max load factors.
-
----
-
-## 🛠️ Technology & Tools Matrix
-
----
-
-## 📊 GitHub Contribution Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yogesh031020&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh031020&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛸 Low-Level Firmware & Control</h4>
+      <ul>
+        <li><code>C++ (11/14/17)</code> / Bare-Metal C</li>
+        <li><code>ArduPilot (C++ core)</code> & <code>PX4 Autopilot</code></li>
+        <li><code>FreeRTOS</code> Task Scheduling & Queues</li>
+        <li><code>MAVLink Msg #70</code> Overrides & <code>uORB</code> Pub/Sub</li>
+        <li>I2C, SPI, UART, DShot, PWM Actuators</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌀 High-Level ROS 2 Autonomy</h4>
+      <ul>
+        <li><code>ROS 2 (Jazzy / Humble)</code> Core Nodes</li>
+        <li>Extended Kalman Filter (<code>EKF3</code>) Fusion</li>
+        <li>3D SLAM Toolbox & Distributed Map Merging</li>
+        <li>Dynamic Obstacle Avoidance (YOLOv10 Edge AI)</li>
+        <li>Custom <code>A* Pathfinding</code> Graph Solvers</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Hardware & PCB Design</h4>
+      <ul>
+        <li><code>KiCad</code> Schematic Design & Routing</li>
+        <li>High-Speed Telemetry & EMI Shielding</li>
+        <li>Multi-layer Power Distribution (BEC)</li>
+        <li>Hand-Soldering, Assembly & Stress Testing</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Aerospace Physics & Tools</h4>
+      <ul>
+        <li><code>OpenVSP</code> High-Fidelity CAD Geometry</li>
+        <li><code>PrePoMax / CalculiX</code> Structural FEA</li>
+        <li><code>OpenFOAM</code> Aerodynamic CFD</li>
+        <li>Docker, Git CI/CD, Ubuntu Linux</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Industrial Experience (Novatech Robo Pvt Ltd)
-*   **2+ Years UAV Operations:** Successfully conducted 150+ hours of commercial UAV operations (multirotors/fixed-wings) for mapping, agriculture, and industrial surveys.
-*   **Avionics Calibration:** Tuned cascade PID control gains, calibrated high-end IMUs/compasses, and analyzed binary telemetry logs (APM/PX4) to trace sensor anomalies and flight deviations.
+## 🚀 Flagship Project Showrooms
+
+<table width="100%">
+  <!-- PROJECT 1 -->
+  <tr>
+    <td>
+      <h3>📦 01 / Warehouse Drone v2.0 — Firmware & SITL Twin</h3>
+      <p><em>Bare-Metal C++ Companion Core & Software-in-the-Loop Mission Control.</em></p>
+      <ul>
+        <li><strong>Companion MCU:</strong> Coded an ESP32-WROOM core running FreeRTOS tasks to inject high-frequency MAVLink RC overrides into Pixhawk.</li>
+        <li><strong>Sensor Suite:</strong> Programmed downward LiDAR altimeters, HC-SR04 sonar filters, and IR beacon interrupt arrays for precision coordinate docking.</li>
+        <li><strong>Digital Twin:</strong> Validated a full autonomous pickup-to-landing sequence inside an ArduPilot SITL environment.</li>
+      </ul>
+      <a href="https://github.com/yogesh031020/warehouse-drone-v2">📂 Access Repository</a> | <a href="https://github.com/yogesh031020/warehouse-drone-v2/raw/main/docs/warehouse_v2_simulation.mp4">🎬 View SITL Simulation Run</a>
+    </td>
+  </tr>
+  
+  <!-- PROJECT 2 -->
+  <tr>
+    <td>
+      <h3>🌌 02 / Autonomous UAV Trinity Stack</h3>
+      <p><em>Failure-Resilient distributed multi-agent swarm architecture in ROS 2.</em></p>
+      <ul>
+        <li><strong>Project AEGIS:</strong> Fail-safe state machine monitoring battery/EKF variance, writing telemetry data live to a SQLite black box.</li>
+        <li><strong>Project Swarm:</strong> Namespace-isolated decentralized map merging using SLAM Toolbox.</li>
+        <li><strong>Project Zenith:</strong> Jetson-level YOLOv10 object detection steering reactive potential field avoidance.</li>
+      </ul>
+      <a href="https://github.com/yogesh031020/Autonomous-UAV-Trinity-Stack">📂 Access Repository</a>
+    </td>
+  </tr>
+
+  <!-- PROJECT 3 -->
+  <tr>
+    <td>
+      <h3>🛸 03 / AeroCore-S3 Flight Controller Hardware</h3>
+      <p><em>Custom ESP32-S3 Autopilot Avionics board from schematic design to flight test.</em></p>
+      <ul>
+        <li><strong>Hardware Design:</strong> Designed multi-layer PCB in KiCad with isolated telemetry paths, noise-calibrated BEC rails, and low-latency IMU buses.</li>
+        <li><strong>Firmware Board Support:</strong> Authored bare-metal C++ drivers for on-board gyros and barometers over SPI.</li>
+      </ul>
+      <a href="https://github.com/yogesh031020/AeroCore-S3-Flight-Controller">📂 Access Repository</a> | <a href="https://github.com/yogesh031020/Drone-PCB-Hardware-Assembly-Media-Showcase">🛠️ View PCB Showcase</a>
+    </td>
+  </tr>
+  
+  <!-- PROJECT 4 -->
+  <tr>
+    <td>
+      <h3>🦅 04 / Project ICARUS: Aerospace Certification</h3>
+      <p><em>Physics-based design, structural FEA, and fluid aerodynamic analysis of a HALE Wing.</em></p>
+      <ul>
+        <li><strong>Wing Design:</strong> Evolved parametric wing templates programmatically inside OpenVSP.</li>
+        <li><strong>Structural FEA:</strong> Certified load limits and shear stress under high aerodynamic loads in PrePoMax.</li>
+        <li><strong>Aerodynamic CFD:</strong> Calculated lift-to-drag polar ratios using OpenFOAM mesh solvers.</li>
+      </ul>
+      <a href="https://github.com/yogesh031020/Project-ICARUS">📂 Access Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-📫 **Get in Touch:**  
-📬 **Email:** [yogeshes376@gmail.com](mailto:yogeshes376@gmail.com) | 🌐 **Web Portfolio:** [yogesh031020.github.io](https://yogesh031020.github.io/)  
-📄 **License:** All flagship repository architectures are open-source and licensed under the **MIT License**.
+## 📟 Live Mission Telemetry Log (Simulated)
+```bash
+[INIT] Initializing AeroCore-S3 Avionics Stack... OK
+[SENSORS] IMU Calibrated | Baro Calibrated | EKF3 Filter Lock achieved
+[TELEM] Connecting to GCS Companion Core via MAVLink... [CONNECTED]
+[PREARM] Run failsafe diagnostic: Battery: 12.6V, GPS Sats: 18, Sensors: [SAFE]
+[TAKEOFF] Setting Mode: GUIDED | Arming Motors | Commanding takeoff to 10.0m...
+[NAV] Transitioning to Mode: AUTO | Uploading Waypoint grid map...
+[NAV] Navigating to Waypoint 1 (PICKUP) | Distance: 25.4m | Cruise Alt: 10.0m
+[PAYLOAD] Gripper status: CLOSING Servo... [PACKAGE SECURED]
+[NAV] Navigating to Waypoint 2 (DELIVERY) | Distance: 48.2m
+[PAYLOAD] Precision landing lock active | Descending to 1.50m... [PACKAGE RELEASED]
+[NAV] Returning to Launch (RTL) | Alt: 10.0m
+[LAND] Touchdown confirmed. Cutting motors. Disarming. [MISSION COMPLETE]
