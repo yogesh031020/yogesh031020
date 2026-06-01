@@ -18,7 +18,7 @@
 ---
 
 ### 🧠 System Diagnostic & Core Bio
-> **Aerospace Systems Engineer (B.E.)** specializing in bare-metal embedded C++ firmware, real-time control loops, and distributed robotic flight stacks (ROS 2). Formerly at **Novatech Robo Pvt Ltd**, managing real-world commercial flight operations, sensor calibrations, and black-box telemetry analysis. I build deterministic hardware-software ecosystems designed to operate under real-world physical constraints.
+> **Aeronautical Engineer (B.E.)** specializing in bare-metal embedded C++ firmware, real-time control loops, and distributed robotic flight stacks (ROS 2). Formerly at **Novatech Robo Pvt Ltd**, managing real-world commercial flight operations, sensor calibrations, and black-box telemetry analysis. I build deterministic hardware-software ecosystems designed to operate under real-world physical constraints.
 
 ---
 
