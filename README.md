@@ -1,71 +1,80 @@
-<h1 align="center">Hey, I'm Yogesh E S 👋</h1>
-<h3 align="center">Drone Systems Engineer · UAV Developer · Bengaluru, India</h3>
+# 🦅 Yogesh E S | UAV Autonomy Systems Engineer
 
-<p align="center">
-  I build autonomous drone systems — from bare-metal ESP32 firmware to 
-  ROS 2 autonomy stacks and ML-powered aerial perception.
-</p>
-
----
-
-## 🛠️ What I Build
-
-- 🚁 **Autonomous UAVs** — GPS-denied navigation, obstacle avoidance, indoor flight
-- 🧠 **ML on Drones** — YOLOv8 object detection, deep learning for avoidance
-- 📡 **MAVLink Systems** — Custom flight controller integration, GCS-free mission execution
-- 🔧 **Hardware + Firmware** — ESP32-S3, APM 2.8, custom flight controllers from scratch
-- 🌐 **Simulation** — AirSim, Gazebo, ROS 2 for pre-hardware validation
+<div align="center">
+  <a href="https://yogesh031020.github.io/">🌐 **Explore my Live Aerospace & Autonomy Portfolio**</a>
+  <br><br>
+  
+  ![Drone Autonomy](https://img.shields.io/badge/Focus-UAV%20Autonomy%20%26%20Avionics-blue?style=for-the-badge&logo=drone)
+  ![ROS2](https://img.shields.io/badge/ROS2-Jazzy%20%7C%20Humble-green?style=for-the-badge&logo=ros)
+  ![Experience](https://img.shields.io/badge/Experience-2%20Years-orange?style=for-the-badge)
+</div>
 
 ---
 
-## ⚙️ Tech Stack
+### 🛸 About Me
+I am a dedicated **Robotics & Aeronautical Systems Engineer** with **2+ years of real-world industry experience** at *Novatech Robo Pvt Ltd*. I specialize in building robust, failure-resilient autonomous UAV ecosystems using **ROS 2**, **PX4/ArduPilot C++ firmware architectures**, **companion computers**, and **Edge AI**.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MAVLink-0078D7?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArduPilot-FF0000?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat&logo=ultralytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AirSim-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat&logoColor=white"/>
-</p>
+I close the gap between aerospace theory and practical robotics by developing flight-proven navigation, custom motor mixers, and digital twin simulation environments.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Flagship Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [WiFi Follow-Me Drone](https://github.com/yogesh031020/wifi-follow-me-drone) | Tracks target via RSSI, MAVLink control + LiDAR avoidance | ESP32, MAVLink, C++ |
-| [Warehouse Drone v2](https://github.com/yogesh031020/warehouse-drone-v2) | GPS-free indoor delivery with ML inference on-board | ESP32, APM 2.8, ML, C++ |
-| [Obstacle Avoidance — Deep Learning](https://github.com/yogesh031020/autonomous-obstacle-avoidance-drone) | Neural net-based avoidance in AirSim simulation | Python, AirSim, DL |
-| [YOLOv8 Aerial Detection](https://github.com/yogesh031020/yolov8-drone-detection) | Real-time object detection on drone camera feed | YOLOv8, Python, AirSim |
-| [A* Path Planning](https://github.com/yogesh031020/drone-path-planning-astar) | 3D collision-free waypoint planning for UAVs | Python, A*, AirSim |
-| [SkyLink Commander](https://github.com/yogesh031020/SkyLink-Commander) | Raspberry Pi MAVLink mission commander + web HUD | Python, MAVLink, RPi |
+### 🏗️ [1. Warehouse Drone v2.0 (Autonomy & C++ Firmware)](https://github.com/yogesh031020/warehouse-drone-v2)
+**Autonomous indoor package delivery system using companion computers and custom flight controllers.**
+*   **Companion core:** Developed custom C++ firmware on **ESP32** utilizing FreeRTOS tasks to parse **MAVLink (Msg #70 RC override)** serial packets.
+*   **Avionics Suite:** Integrated downward **LiDAR** altimeters, forward sonar arrays, and **IR Beacons** for precision landing triangulation.
+*   **Digital Twin:** Created a full Software-in-the-Loop (**ArduPilot SITL**) simulation mapping precision pickup, dropoff, and autonomous land states.
+
+### 🌌 [2. Autonomous-UAV-Trinity-Stack](https://github.com/yogesh031020/Autonomous-UAV-Trinity-Stack)
+**A unified ROS 2 failure-resilient autonomous UAV software stack.**
+*   **AEGIS:** Failure-resilient failsafe state machine & high-frequency Black Box logging.
+*   **Swarm:** Decentralized multi-agent coordination, map merging, and collaborative SLAM.
+*   **Zenith:** AI Vision-driven reactive potential fields for dynamic obstacle avoidance (YOLOv10).
+
+### 🔍 [3. Project CHRONOS (Infrastructure Inspection)](https://github.com/yogesh031020/Project-CHRONOS-Infrastructure-Inspection)
+**Autonomous inspection drone designed for GPS-denied structural health monitoring.**
+*   Implements **real-time SLAM-based fallback** navigation in structural tunnels and bridge underpasses.
+*   Automated Edge AI model reporting for structural decay (rust, cracks, concrete spalling).
+*   High-efficiency CAD optimization and flight envelope modeling.
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack & Systems Mastery
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogesh031020&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh031020&layout=compact&theme=dark&hide_border=true" width="40%"/>
-</p>
+| 💻 Languages & Core | 🛸 Autonomy & Control | 📊 Simulation & CAD | 🛠️ Tools & DevOps |
+| :--- | :--- | :--- | :--- |
+| **C++ / C** | **ROS 2 (Jazzy / Humble)** | **Gazebo (Harmonic / Garden)** | **Docker & Containers** |
+| **Python** | **PX4 Autopilot Firmware** | **OpenVSP (CAD Geometry)** | **Git / GitHub CI/CD** |
+| **MATLAB / Simulink** | **ArduPilot C++ Codebase** | **PrePoMax (FEA Analysis)** | **Linux (Ubuntu)** |
+| **Arduino / FreeRTOS** | **MAVLink / uORB Protocols** | **OpenFOAM (CFD Aerodynamics)**| **VS Code / Vim** |
 
 ---
 
-## 📬 Connect with Me
+## 📊 My GitHub Developer Metrics
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yogesh-e-s-9380b540b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://yogesh031020.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:yogeshes376@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=yogesh031020&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yogesh's GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh031020&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💼 Industry Highlights (Novatech Robo)
+*   **2 Years Active Flight Ops:** Executed over 150+ hours of autonomous surveys, payload dropoffs, and agricultural mapping.
+*   **Avionics Diagnostics:** Evaluated black box flight telemetry logs, tuning PID control gains and compass calibrations.
+*   **Payload Systems:** Integrated high-frequency microcontrollers and mechanical drop-actuators into commercial frames.
+
+---
+
+📫 **Let's collaborate:**  
+📬 **Email:** [yogeshes376@gmail.com](mailto:yogeshes376@gmail.com) | 🌐 **Portfolio Website:** [yogesh031020.github.io](https://yogesh031020.github.io/)  
+📄 **Legal & License:** All engineering projects are open-source and licensed under the **MIT License**.
