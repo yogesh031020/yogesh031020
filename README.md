@@ -1,6 +1,6 @@
 <!-- ANIMATED CYBERPUNK TYPING HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9B%B8+YOGESH+E+S+%7C+AERONAUTICAL+ENGINEER;%F0%9F%9A%80+UAV+AUTONOMY+%26+EMBEDDED+C%2B%2B+DEVELOPER;%F0%9F%93%9F+CUSTOM+AVIONICS+%26+PCB+DESIGNER;%E2%9A%A1+ALL+SYSTEMS+ACTIVE+%7C+TELEMETRY+LOCK" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9B%B8+YOGESH+E+S+%7C+AERONAUTICAL+ENGINEER;%E2%9A%A1+ALL+SYSTEMS+ACTIVE+%7C+TELEMETRY+LOCK" alt="Typing SVG" />
 </div>
 
 <!-- SLEEK NEON SEPARATOR -->
