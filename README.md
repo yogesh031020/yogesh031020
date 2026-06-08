@@ -22,15 +22,6 @@ I pushed code across **28+ repositories**, contributing to open-source UAV stack
 
 ---
 
-### ✨ Random Dev Quote::
-
-<p align="center">
-  <a href="https://github.com/iampavangandhi/iampavangandhi">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-  </a>
-</p>
-
----
 
 Like My Work?
 
