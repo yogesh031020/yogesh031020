@@ -42,8 +42,9 @@ Like My Work?
 
 
 <p align="right">
-  <img align="right" height="230" width="350" alt="Robotics Coder" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g2ODVycnhndW9iaXZ2NmJtZHpxMzg4MGM4bzd6aXo1czRpZHA3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3PfvGTJjlV/giphy.gif" style="border-radius: 6px;" />
+  <img align="right" height="230" width="350" alt="Robotics Coder" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdycno5NnQzcGcwdWo5bmNwamd3NGx1c2ZjNndsbHhqcDB2dDdoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHXbr2tg48fqhwMcrx/giphy.gif" style="border-radius: 6px;" />
 </p>
+
 
 ### Talking about Personal Stuff:
 
