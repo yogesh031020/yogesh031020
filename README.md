@@ -1,65 +1,92 @@
-<div align="center">
-  <h1>Yogesh E S</h1>
-  <p><strong>Aeronautical & Robotics Systems Engineer</strong></p>
+## Hey there 👋, I'm [Yogesh!](https://github.com/yogesh031020)
 
-  <p>
-    <a href="https://yogesh031020.github.io/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=flat&logo=google-chrome&logoColor=white&labelColor=1e1e1e" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/yogesh-e-s-9380b540b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=1e1e1e" alt="LinkedIn" /></a>
-    <a href="mailto:yogeshes376@gmail.com"><img src="https://img.shields.io/badge/Email-BD00FF?style=flat&logo=gmail&logoColor=white&labelColor=1e1e1e" alt="Email" /></a>
-  </p>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-e-s-9380b540b/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yogeshes376@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-00E5FF?style=flat-square&logo=Google-Chrome&logoColor=white)](https://yogesh031020.github.io/)
 
-  <br />
+### Glad to see you here!
 
-  <p align="center">
-    <i>Specializing in flight dynamics modeling, control system design (LQR/EKF), bare-metal firmware, and ROS 2 autonomous stacks. Dedicated to translating complex aerospace physical dynamics into robust, deterministic software solutions.</i>
-  </p>
-</div>
+<p align="left">
+  <a href="https://github.com/yogesh031020">
+    <img src="https://komarev.com/ghpvc/?username=yogesh031020&label=Profile%20views&color=0e75b6&style=flat" alt="Yogesh's Profile Views" />
+  </a>
+</p>
 
----
+I am an **Aeronautical & Robotics Systems Engineer** on a mission to build autonomous flight stacks and robust robotic ecosystems. 🚀
 
-### 🛠️ Expertise & Tech Stack
+I have a passion for dynamics modeling, flight control laws (LQR, PID, EKF), and translating complex aerospace physics into robust, deterministic software solutions. Formerly at **Novatech Robo Pvt Ltd**, I engineered and deployed commercial-grade autonomous UAV software stacks, developed real-time flight controllers, structured black-box telemetry diagnostics, and optimized sensor calibration loops.
 
-<div align="center">
+Feel free to connect with me for all things robotics, aerospace, or just to say hello! Let's shape the future of tech together. 🌟
 
-**Languages**
-`C++` • `Python` • `MATLAB` • `Simulink` • `C`
-
-**Autonomy & Control**
-`ROS 2 (Jazzy)` • `ArduPilot` • `PX4` • `MAVLink` • `LQR / PID` • `Sensor Fusion (EKF)`
-
-**Simulation & Aerodynamics**
-`Gazebo Harmonic` • `OpenVSP` • `OpenFOAM (CFD)` • `FEA`
-
-**Systems & Tools**
-`Linux (Ubuntu)` • `FreeRTOS` • `Docker` • `Git / GitHub`
-
-</div>
+I pushed code across **28+ repositories**, contributing to open-source UAV stacks and designing high-fidelity simulators.
 
 ---
 
-### 🚀 Featured Engineering Projects
+### ✨ Random Dev Quote::
 
-<div align="center">
-  
-#### [Autonomous UAV Trinity Stack](https://github.com/yogesh031020/Autonomous-UAV-Trinity-Stack)
-A production-grade UAV flight ecosystem featuring failure-resilient control, multi-agent swarm coordination, and AI-driven obstacle avoidance. Built with ROS 2 and Gazebo.
-  
-#### [AeroCore-S3 Flight Controller Firmware](https://github.com/yogesh031020/AeroCore-S3-Flight-Controller)
-Bare-metal C++ firmware stack built on FreeRTOS for custom ESP32-S3 flight computing, featuring sensor driver integrations and real-time task scheduling.
-  
-#### [Project CHRONOS](https://github.com/yogesh031020/Project-CHRONOS-Infrastructure-Inspection)
-An autonomous UAV structural inspection system utilizing LiDAR, visual SLAM mapping, and deep learning for facility diagnostic sweeps.
-  
-#### [Drone LQR Flight Dynamics Simulator](https://github.com/yogesh031020/Drone-Dynamics-LQR-Simulator-MATLAB)
-A full 6-DOF quadcopter simulation environment in MATLAB/Simulink for optimal control validation and dynamic flight maneuvering.
-
-</div>
+<p align="center">
+  <a href="https://github.com/iampavangandhi/iampavangandhi">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+<p align="left">
+  <a href="https://www.buymeacoffee.com/yogesh031020">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogesh031020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh031020&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
-</div>
+<p align="right">
+  <img align="right" height="230" width="350" alt="Robotics Coder" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g2ODVycnhndW9iaXZ2NmJtZHpxMzg4MGM4bzd6aXo1czRpZHA3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3PfvGTJjlV/giphy.gif" style="border-radius: 6px;" />
+</p>
+
+### Talking about Personal Stuff:
+
+* 🛠️   I’m currently working with C++, Python, ROS 2, and MATLAB.
+* 🚀   I’m currently exploring multi-agent swarm coordination and reinforcement learning for flight control.
+* 💬   Ask me about flight dynamics, trajectory planning, LQR controls, and SITL/HITL simulations.
+* 👾   Fun fact: Aerodynamics is just fluid dynamics with a lot of attitude.
+* 📫   Reach me out: yogeshes376@gmail.com.
+
+### My Absolute Favorites:
+
+* 💻   I love design optimization, control loop tuning, and autopilot hardware-in-the-loop tests.
+* 📰   Reading research papers on UAV autonomy and guidance systems.
+* 🚁   Field testing real-world quadcopters and analyzing flight telemetry logs.
+
+---
+
+### Languages and Tools:
+
+<p align="left">
+  <a href="https://en.cppreference.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+</p>
+
+---
+
+### My GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogesh031020&show_icons=true&theme=tokyonight&hide_border=true" alt="Yogesh's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh031020&layout=compact&theme=tokyonight&hide_border=true" alt="Yogesh's Top Languages" />
+</p>
