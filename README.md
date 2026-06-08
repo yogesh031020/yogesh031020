@@ -12,7 +12,7 @@
   </a>
 </p>
 
-I am an **Aeronautical & Robotics Systems Engineer** on a mission to build autonomous flight stacks and robust robotic ecosystems. 🚀
+I am an **Aeronautical Engineer** on a mission to build autonomous flight stacks and robust robotic ecosystems. 🚀
 
 I have a passion for dynamics modeling, flight control laws (LQR, PID, EKF), and translating complex aerospace physics into robust, deterministic software solutions. Formerly at **Novatech Robo Pvt Ltd**, I engineered and deployed commercial-grade autonomous UAV software stacks, developed real-time flight controllers, structured black-box telemetry diagnostics, and optimized sensor calibration loops.
 
